@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgba(255, 255, 203, 255);
+    text-align: center;
+}
+
+#map {
+    margin: 15px 0 10px 0;
+}
+
+#heading {
+    color: #303000;
+}
+
+#distance {
+	white-space: pre;
+    color: #303000;
+}
